@@ -14,6 +14,9 @@ export default function HomePage() {
                   count is {count}
                 </button>
               </div>
+              <div>
+                <p>test</p>
+              </div>
             </div>
           </div>
         </div>
